@@ -1,4 +1,4 @@
-/><h1 align="center">Hi 👋, I'm Ekspert</h1>
+<h1 align="center">Hi 👋, I'm Ekspert</h1>
 <h3 align="center">A Teenage internet activist from Poland</h3>
 
 - 🔭 I’m currently working on [marolliscripts.pl](marolliscripts.pl) 
@@ -15,10 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
-
-<img width="496" height="355" alt="obraz" src="https://github.com/user-attachments/assets/b7338f2f-0e84-4063-9ae9-352e4d0e7bb9" />
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wiserp)
