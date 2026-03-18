@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ekspert</h1>
+<img width="496" height="355" alt="obraz" src="https://github.com/user-attachments/assets/ce985e58-8cf6-4f76-a5fe-4092b5938feb" /><h1 align="center">Hi 👋, I'm Ekspert</h1>
 <h3 align="center">A Teenage internet activist from Poland</h3>
 
 - 🔭 I’m currently working on [marolliscripts.pl](marolliscripts.pl) 
@@ -17,7 +17,7 @@
 <p align="left"></p>
 <!-- [Discord Profile](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>) -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/888297992463974400?bg=313030&borderRadius=10px&idleMessage=The%20script%20for%20fake%20plates%20is%20available%20at%20marolliscripts.pl%20for%20free&theme=dark)](https://discord.com/users/888297992463974400)
+<img width="496" height="355" alt="obraz" src="https://github.com/user-attachments/assets/b7338f2f-0e84-4063-9ae9-352e4d0e7bb9" />
 
 
 
