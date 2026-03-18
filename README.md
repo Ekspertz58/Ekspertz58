@@ -17,7 +17,7 @@
 <p align="left"></p>
 <!-- [Discord Profile](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>) -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/888297992463974400)](https://discord.com/users/888297992463974400)
+[![Discord Presence](https://lanyard.cnrad.dev/api/888297992463974400?bg=313030&borderRadius=10px&idleMessage=The%20script%20for%20fake%20plates%20is%20available%20at%20marolliscripts.pl%20for%20free&theme=dark)](https://discord.com/users/888297992463974400)
 
 
 
