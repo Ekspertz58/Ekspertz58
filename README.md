@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekspert</h1>
-<h3 align="center">A Teenage internet activist from Poland</h3>
+
 
 - 🔭 I’m currently working on [marolliscripts.pl](marolliscripts.pl) 
 
