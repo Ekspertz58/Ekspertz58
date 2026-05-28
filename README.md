@@ -44,18 +44,17 @@ Oto technologie i narzędzia, którymi posługuję się w moich projektach:
 
 ## 📊 Moje Statystyki GitHub:
 
-
 <p align="center">
-  <!-- Karta głównych statystyk (Niezawodny mirror) -->
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=[TWÓJ-GITHUB-USER]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statystyki GitHub" />
+  <!-- Karta głównych statystyk -->
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=TUTAJ_WPISZ_SWÓJ_NICK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statystyki GitHub" />
   
   <!-- Karta najczęściej używanych języków -->
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=[TWÓJ-GITHUB-USER]&layout=compact&theme=tokyonight&langs_count=6" alt="Najczęściej używane języki" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=TUTAJ_WPISZ_SWÓJ_NICK&layout=compact&theme=tokyonight&langs_count=6" alt="Najczęściej używane języki" />
 </p>
 
 <p align="center">
-  <!-- Licznik dni z rzędu z commitami (Streak Stats - bardzo stabilne) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TWÓJ-GITHUB-USER]&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Licznik dni z rzędu z commitami -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUTAJ_WPISZ_SWÓJ_NICK&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
