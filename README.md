@@ -1,7 +1,7 @@
 # Cześć! Jestem Ekspert 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[TWÓJ-GITHUB-USER]&color=blueviolet&style=flat-square" alt="Profil Views" />
+  <img src="https://komarev.com/ghpvc/?username=[Ekspertz58]&color=blueviolet&style=flat-square" alt="Profil Views" />
 </p>
 
 > Tworze proste narzędzia do cyber-bezpieczeństwa!
