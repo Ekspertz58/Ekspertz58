@@ -12,7 +12,7 @@
 
 Poniżej znajdziesz moje główne kanały komunikacji. Kliknij w ikonkę, aby pogadać!
 
-[![Discord](https://img.shields.io/badge/Discord-[TWÓJ_NICK_LUB_ID]-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/[888297992463974400])
+[![Discord](https://img.shields.io/badge/Discord-[ekspert_]-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/[888297992463974400])
 [![Portfolio](https://img.shields.io/badge/Moje_Portfolio-Sprawdź-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://marolliscripts.pl)
 [![Email](https://img.shields.io/badge/Email-Napisz_do_mnie-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekspert@proton.me)
 
