@@ -1,11 +1,10 @@
-# Cześć! Jestem [Twoje Imię/Nick] 👋
+# Cześć! Jestem Ekspert 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=[TWÓJ-GITHUB-USER]&color=blueviolet&style=flat-square" alt="Profil Views" />
 </p>
 
-> **Full-Stack Developer & Tech Enthusiast** 🚀  
-> Pasjonuję się tworzeniem dynamicznych aplikacji webowych, optymalizacją baz danych i automatyzacją procesów. Zawsze otwarty na nowe wyzwania i ciekawe projekty!
+> Tworze proste narzędzia do cyber-bezpieczeństwa!
 
 ---
 
@@ -13,16 +12,15 @@
 
 Poniżej znajdziesz moje główne kanały komunikacji. Kliknij w ikonkę, aby pogadać!
 
-[![Discord](https://img.shields.io/badge/Discord-[TWÓJ_NICK_LUB_ID]-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/[TWÓJ_ID_DISCORDA])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[TWÓJ_PROFIL]-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TWÓJ_LINK])
-[![Portfolio](https://img.shields.io/badge/Moje_Portfolio-Sprawdź-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://[TWOJA_STRONA].pl)
-[![Email](https://img.shields.io/badge/Email-Napisz_do_mnie-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twój.email@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-[TWÓJ_NICK_LUB_ID]-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/[888297992463974400])
+[![Portfolio](https://img.shields.io/badge/Moje_Portfolio-Sprawdź-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://marolliscripts.pl)
+[![Email](https://img.shields.io/badge/Email-Napisz_do_mnie-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekspert@proton.me)
 
 ---
 
 ## 💻 Mój Tech Stack:
 
-Oto technologie i narzędzia, którymi posługuję się na co dzień (zgodnie z moim setupem):
+Oto technologie i narzędzia, którymi posługuję się na co dzień:
 
 ### Frontend & Design
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,11 +55,6 @@ Oto technologie i narzędzia, którymi posługuję się na co dzień (zgodnie z 
 
 ## 🛠️ Nad czym aktualnie pracuję?
 
-* 🔭 Pracuję nad projektem **[Nazwa Projektu]** – [krótki opis, co to robi].
-* 🌱 Szlifuję swoje umiejętności w **[Czego się teraz uczysz, np. zaawansowany Python/Lua]**.
-* 💬 Zapytaj mnie o cokolwiek związanego z **WordPress, skryptami w Pythonie czy konfiguracją Linuxa**.
-* ⚡ Fun fact: **[Dodaj jakiś ciekawy lub śmieszny fakt o sobie, np. Koduję szybciej, gdy gra dobra muzyka]**.
+* 🔭 Pracuję nad projektem **WiseRoleplay** i aktywnie udzielam sie dla **MarolliScripts**.
+* 💬 Zapytaj mnie o cokolwiek związanego z **Cyberbezpieczenstwem, lua,js**.
 
-<p align="center">
-  <i>Kodowanie to nie praca, to styl życia. 💻✨</i>
-</p>
