@@ -4,8 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=[Ekspertz58]&color=blueviolet&style=flat-square" alt="Profil Views" />
 </p>
 
-> Tworze proste narzędzia do cyber-bezpieczeństwa!
-
 ---
 
 ## 🌐 Znajdziesz mnie tutaj:
